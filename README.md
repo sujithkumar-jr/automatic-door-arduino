@@ -48,3 +48,10 @@ Arduino UNO
 
 ## Author
 Sujith Kumar jr
+## Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.png)
+
+## Project Photo
+
+![Project Photo](project_photo.jpg)
