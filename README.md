@@ -90,7 +90,10 @@ Is Distance ≤ 15 cm?
      ↓    ↓
 Servo 90°  Servo 0°
 Door Open  Door Closed
-     ↓    ↓
+     ↓         ↓
+Green LED   Red LED
+Buzzer ON   Buzzer OFF
+
 ## Applications
 
 - Automatic doors in homes and offices
