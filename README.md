@@ -91,5 +91,36 @@ Is Distance ≤ 15 cm?
 Servo 90°  Servo 0°
 Door Open  Door Closed
      ↓    ↓
+## Applications
+
+- Automatic doors in homes and offices
+- Smart building systems
+- Access-control systems
+- Hands-free door operation
+- Smart-home automation
+
+## Advantages
+
+- Simple and low-cost design
+- Automatic operation
+- Contactless object detection
+- Easy to implement
+- Suitable for small embedded-system projects
+
+## Future Enhancements
+
+- Add RFID-based access control
+- Add Wi-Fi/Bluetooth monitoring
+- Add an LCD/OLED display
+- Add a camera for identification
+- Use a stronger motor for real doors
+
+## Project Demonstration
+
+The project detects an approaching object using the HC-SR04 ultrasonic sensor and automatically controls the MG90S servo motor to open and close the door.
+
+## Author
+
+Created as an Arduino-based embedded systems project.
 Green LED  Red LED
 Buzzer ON  Buzzer OFF
