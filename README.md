@@ -94,6 +94,9 @@ Door Open  Door Closed
 Green LED   Red LED
 Buzzer ON   Buzzer OFF
 
+
+
+
 ## Applications
 
 - Automatic doors in homes and offices
